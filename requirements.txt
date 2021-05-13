@@ -1,7 +1,4 @@
-name: Diseño_malla
-channels:
-  - default
-dependencies:
+
   - python>=3.6
   - numpy
   - scipy
