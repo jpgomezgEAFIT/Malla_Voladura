@@ -1,9 +1,2 @@
-
-  numpy
-  scipy
-  matplotlib>=2.0
-  sympy
-  jupyter
-  ipython
-  spyder
-  ipykernel
+numpy==1.9.2
+matplotlib==3.3.2
