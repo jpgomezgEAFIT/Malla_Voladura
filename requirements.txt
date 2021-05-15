@@ -1,7 +1,4 @@
 
-chnnels:
-  - default
-dependencies:
   - python>=3.6
   - numpy
   - scipy
